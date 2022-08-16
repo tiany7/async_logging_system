@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tiany/CLionProjects/tiany7's Logging System/async_logger.cpp
+async_logger.h
+C:/Users/tiany/CLionProjects/tiany7's Logging System/async_logger.h
+
+C:/Users/tiany/CLionProjects/tiany7's Logging System/async_logger.h
+io.h
+-
+unistd.h
+-
+mutex
+-
+iostream
+-
+string
+-
+cstdint
+-
+condition_variable
+-
+queue
+-
+fstream
+-
+thread
+-
+future
+-
+
+C:/Users/tiany/CLionProjects/tiany7's Logging System/main.cpp
+iostream
+-
+async_logger.h
+C:/Users/tiany/CLionProjects/tiany7's Logging System/async_logger.h
+
