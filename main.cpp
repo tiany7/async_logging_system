@@ -1,14 +1,9 @@
 #include <iostream>
-#include "async_logger.h"
+#include "fastlog.h"
 int main() {
     std::cout << "Hello, World!" << std::endl;
     async_logger logger;
     logger.run();
-    logger.write_one("dd");
-
-
-    getchar();
-    logger.quit();
-    logger.wait();
+    XLOG(logger, "yes", 23333);
     return 0;
 }

@@ -88,7 +88,16 @@
 		<Unit filename="C:/Users/tiany/CLionProjects/tiany7&apos;s Logging System/async_logger.h">
 			<Option target="efficient_logging_system"/>
 		</Unit>
+		<Unit filename="C:/Users/tiany/CLionProjects/tiany7&apos;s Logging System/environment.h">
+			<Option target="efficient_logging_system"/>
+		</Unit>
+		<Unit filename="C:/Users/tiany/CLionProjects/tiany7&apos;s Logging System/fastlog.h">
+			<Option target="efficient_logging_system"/>
+		</Unit>
 		<Unit filename="C:/Users/tiany/CLionProjects/tiany7&apos;s Logging System/main.cpp">
+			<Option target="efficient_logging_system"/>
+		</Unit>
+		<Unit filename="C:/Users/tiany/CLionProjects/tiany7&apos;s Logging System/util.h">
 			<Option target="efficient_logging_system"/>
 		</Unit>
 		<Unit filename="C:/Users/tiany/CLionProjects/tiany7&apos;s Logging System/CMakeLists.txt">

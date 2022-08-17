@@ -20,6 +20,7 @@ void async_logger::write_one(const std::string_view &msg) {
     cond.notify_one();
 }
 
+//挂起一个线程
 void async_logger::run() {
     auto runner = std::thread([this](){
         while(!is_quit){
@@ -54,7 +55,7 @@ void async_logger::wait() {
     }
 }
 
-void async_logger::quit() {
+void async_logger::Stop() {
     is_quit = true;
     cond.notify_one();
 }

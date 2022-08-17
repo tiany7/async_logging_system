@@ -29,7 +29,7 @@ public:
     ~async_logger();
     void write_one(const std::string_view & msg);
     void run(); //用lambda挂起一个异步线程
-    void quit();
+    void Stop();
     void wait();
 };
 

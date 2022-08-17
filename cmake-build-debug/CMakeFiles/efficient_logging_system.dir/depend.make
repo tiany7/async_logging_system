@@ -6,4 +6,7 @@ CMakeFiles/efficient_logging_system.dir/async_logger.cpp.obj: \
  ../async_logger.h
 CMakeFiles/efficient_logging_system.dir/main.cpp.obj: \
  ../async_logger.h \
- ../main.cpp
+ ../environment.h \
+ ../fastlog.h \
+ ../main.cpp \
+ ../util.h

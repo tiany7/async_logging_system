@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tiany/CLionProjects/tiany7's Logging System/async_logger.cpp
-async_logger.h
-C:/Users/tiany/CLionProjects/tiany7's Logging System/async_logger.h
-
 C:/Users/tiany/CLionProjects/tiany7's Logging System/async_logger.h
 io.h
 -
@@ -34,9 +30,35 @@ thread
 future
 -
 
-C:/Users/tiany/CLionProjects/tiany7's Logging System/main.cpp
+C:/Users/tiany/CLionProjects/tiany7's Logging System/environment.h
+string
+-
+
+C:/Users/tiany/CLionProjects/tiany7's Logging System/fastlog.h
 iostream
+-
+string
+-
+regex
+-
+set
 -
 async_logger.h
 C:/Users/tiany/CLionProjects/tiany7's Logging System/async_logger.h
+util.h
+C:/Users/tiany/CLionProjects/tiany7's Logging System/util.h
+
+C:/Users/tiany/CLionProjects/tiany7's Logging System/main.cpp
+iostream
+-
+fastlog.h
+C:/Users/tiany/CLionProjects/tiany7's Logging System/fastlog.h
+
+C:/Users/tiany/CLionProjects/tiany7's Logging System/util.h
+string
+-
+ctime
+-
+environment.h
+C:/Users/tiany/CLionProjects/tiany7's Logging System/environment.h
 
